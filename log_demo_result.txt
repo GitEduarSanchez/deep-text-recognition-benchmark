@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./output/image0.jpg      	strangeosents            	0.0000
+./output/image1.jpg      	strangeosents            	0.0000
+./output/image2.jpg      	strangeosents            	0.0000
+./output/image3.jpg      	strangeosents            	0.0000
+./output/image4.jpg      	strangeosents            	0.0000
+./output/image5.jpg      	strangeosents            	0.0000
+./output/image6.jpg      	strangeosents            	0.0000
+./output/image7.jpg      	strangeosents            	0.0000
+./output/image8.jpg      	strangeosents            	0.0000
+./output/image9.jpg      	strangeosents            	0.0000
+./output/image10.jpg     	strangeosents            	0.0000
+./output/image11.jpg     	strangeosents            	0.0000
